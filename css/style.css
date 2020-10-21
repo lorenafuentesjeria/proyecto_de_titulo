@@ -1,0 +1,19 @@
+body{
+
+	background-color:#333333; 
+}
+.imagen{
+
+	background-image: url(/fotos/fotolore.jpg);
+}
+#titulo{
+	color: #999;
+	margin-top: 10px;
+}
+
+a img{
+	height: 220px;
+	width: 300px;
+	padding: 30px;
+	margin: 10px;
+
